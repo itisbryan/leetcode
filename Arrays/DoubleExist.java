@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * @author Khoi Nguyen
  */
-class Solution {
+class DoubleExist {
   public static void main (String args[]) {
     int[] arr = {3,1,7,14};
     // DEBUG
