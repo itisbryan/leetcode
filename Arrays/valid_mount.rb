@@ -1,0 +1,3 @@
+def strict? arr = []
+    
+end
